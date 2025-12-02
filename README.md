@@ -78,13 +78,13 @@ go run client.go
 ```
 
 ### 🖼 Example Output
-Server Terminal:
+**Server Terminal:**
 Server running on port 9000...
 User 1 joined
 User 2 joined
 [1]: hello
 
-Client Terminal:
+**Client Terminal:**
 You joined as User 2
 [User 1] hello
 Message:
