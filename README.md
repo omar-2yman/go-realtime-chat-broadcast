@@ -85,8 +85,9 @@ User 1 joined
 User 2 joined
 [1]: hello
 ```
-```bash
+
 **Client Terminal:**
+```bash
 You joined as User 2
 [User 1] hello
 Message:
