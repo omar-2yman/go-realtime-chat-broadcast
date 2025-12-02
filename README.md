@@ -79,12 +79,15 @@ go run client.go
 
 ### 🖼 Example Output
 **Server Terminal:**
+```bash
 Server running on port 9000...
 User 1 joined
 User 2 joined
 [1]: hello
-
+```
+```bash
 **Client Terminal:**
 You joined as User 2
 [User 1] hello
 Message:
+```
