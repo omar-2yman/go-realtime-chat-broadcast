@@ -61,14 +61,21 @@ REALTIME-RPC-CHAT/
 ## ▶️ How to Run
 
 ### 1️⃣ Start the Server
+
+Open a terminal inside the project folder:
+
 ```bash
 go run server.go
+```
+Server will start on port `:9000` and print incoming messages.
 
 ### 2️⃣ Run the Client
+
+open another terminal (many as you want):
+
 ```bash
 go run client.go
-
----
+```
 
 ### 🖼 Example Output
 Server Terminal:
